@@ -32,8 +32,6 @@ I would like to be able to upload and display images to my articles.
 ```
 
 ## Dependencies
-
-- Yarn
 - React
 - Cypress
 - Axios
