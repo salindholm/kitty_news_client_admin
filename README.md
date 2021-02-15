@@ -1,19 +1,17 @@
 # Kitty News Client Admin
 
 ## Description
-
 This is the web application for admins of Kitty News. Here journalists can log in to create articles.
 
-## The code
-
+## The Code
 [Deployed App(Netlify)](https://kittynews-admin.netlify.app/)</br>
-[Github](https://github.com/CraftAcademy/kitty_news_client_admin)</br>
+[Github](https://github.com/salindholm/kitty_news_client_admin)</br>
 The user interface, mobile application and API can be found here:
-  - [API](https://github.com/CraftAcademy/kitty_news_api)
-  - [User Interface](https://github.com/CraftAcademy/kitty_news_client_user)
-  - [Mobile](https://github.com/CraftAcademy/kitty_news_client_mobile)
+  - [API](https://github.com/salindholm/kitty_news_api)
+  - [User Interface](https://github.com/salindholm/kitty_news_client_user)
+  - [Mobile](https://github.com/salindholm/kitty_news_client_mobile)
 
-## User stories
+## User Stories
 
 ```
 As a journalist,
@@ -45,15 +43,13 @@ I would like to be able to upload and display images to my articles.
 
 ## Acknowledgements
 
-- [Craft Academy](https://www.craftacademy.se/) course material
-- [Craft Academy](https://www.craftacademy.se/) coaches: [Thomas Ochman](https://github.com/tochman) and [Emma-Maria Thalen](https://github.com/emtalen)
+- Course material from [Craft Academy](https://www.craftacademy.se/english/)
+- [Craft Academy](https://www.craftacademy.se/english/) coaches: [Thomas Ochman](https://github.com/tochman) and [Emma-Maria Thalen](https://github.com/emtalen)
 
 ## License
-
 MIT License
 
 ## Authors
-
 - [Sanne Lindholm](https://github.com/salindholm)
 - [Kyungin Na](https://github.com/KyunginNa)
 - [Viktor Karlsson](https://github.com/ViktorHek)
